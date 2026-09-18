@@ -1,0 +1,6 @@
+{
+  "name": "Screen Recorder",
+  "description": "High definition screen recorder app with real-time full screen capture, audio source selection, MP4 export to local storage, and Google Stitch inspired light design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
